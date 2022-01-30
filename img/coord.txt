@@ -1,0 +1,5 @@
+inicio	   tamanho
+(0, 0, 1024, 700): BackGround
+(0, 701, 35, 35): quadrado vermelho
+(36, 701, 26, 26): bola azul
+(63, 701, 26, 26): bola amarela
